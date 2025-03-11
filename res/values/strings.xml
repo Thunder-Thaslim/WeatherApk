@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="location">Location</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="sun_march_2025_10_00_am">Sun March 2025 | 10:00 AM</string>
+    <string name="_25_c">25°C</string>
+    <string name="h_27_l_18">H:27 L:18</string>
+    <string name="rainy">Rainy</string>
+    <string name="_12_km_h">12 Km/h</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="_18">18%</string>
+    <string name="humidity">Humidity</string>
+    <string name="today">Today</string>
+    <string name="next_7days"><![CDATA[Next 7Days >]]></string>
+    <string name="_19_c">19°C</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="sun_march_2025">Sun March 2025</string>
+    <string name="_10_00_a_m">10:00 A.M</string>
+    <string name="h_27">H:27</string>
+    <string name="l_18">L:18</string>
+    <string name="_02_march_2025">02 March 2025</string>
+    <string name="_02march_2025_10_00">02March 2025 10:00</string>
+    <string name="datetime">Datetime</string>
+    <string name="button">Button</string>
+    <string name="_24_c">24°C</string>
+    <string name="_12_00">12:00</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="_12_mm">12 mm</string>
+</resources>
