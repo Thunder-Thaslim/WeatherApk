@@ -30,7 +30,7 @@ import kotlinx.coroutines.withContext
 class MainActivity : AppCompatActivity() {
 
     private val viewModel: WeatherViewModel by viewModels()
-    private val API_KEY = "2767506e97c34e31b5694653250103"
+    private val API_KEY = ""
     private lateinit var hourlyRecyclerView: RecyclerView
     private lateinit var hourlyAdapter: HourlyWeatherAdapter
 
@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        val apiKey = "2767506e97c34e31b5694653250103"
+        val apiKey = ""
 
         val adapter = ArrayAdapter<String>(this, android.R.layout.simple_dropdown_item_1line)
         locationInput.setAdapter(adapter)
